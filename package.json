@@ -1,0 +1,22 @@
+{
+  "name": "view4pug",
+  "version": "0.0.0",
+  "description": "html view render for pug",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/josudoey/view4pug.git"
+  },
+  "author": "JoeyFang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/josudoey/view4pug/issues"
+  },
+  "homepage": "https://github.com/josudoey/view4pug#readme",
+  "dependencies": {
+    "pug": "^2.0.0-beta11"
+  }
+}
