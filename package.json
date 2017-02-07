@@ -1,6 +1,6 @@
 {
   "name": "view4pug",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "description": "html view render for pug",
   "main": "index.js",
   "scripts": {
@@ -10,6 +10,11 @@
     "type": "git",
     "url": "git+https://github.com/josudoey/view4pug.git"
   },
+  "keywords": [
+    "pug",
+    "view",
+    "html"
+  ],
   "author": "JoeyFang",
   "license": "ISC",
   "bugs": {
@@ -17,6 +22,7 @@
   },
   "homepage": "https://github.com/josudoey/view4pug#readme",
   "dependencies": {
-    "pug": "^2.0.0-beta11"
+    "pug": "^2.0.0-beta11",
+    "resolve": "^1.2.0"
   }
 }
